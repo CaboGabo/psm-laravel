@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    background-color: #1E2A63;
+}
+
+footer {
+    color: white;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+footer p {
+    margin: 0;
+    font-weight: bold;
+}
+
+.contenido {
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #F5F5F5;
+}
+
+nav {
+    background-color: black;
+}
